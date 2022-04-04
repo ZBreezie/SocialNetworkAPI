@@ -1,7 +1,7 @@
 # Social Network API with MongoDB
 
 ## Purpose:
-An entire backend NoSQL database/server where you can create, update, and delete new users. You can post thoughts, add friendships, and react to thoughts as you would on any social networking platform! An exercise in creating database models, associations, and api routes using MongoDB, and Mongoose!
+An entire backend NoSQL database/server where you can create, update, and delete new users. You can post thoughts, add friendships, and react to thought posts as you would on any social networking platform! An exercise in creating database models, associations, and api routes using MongoDB, and Mongoose!
 
 ## Built With:
 * JavaScript
